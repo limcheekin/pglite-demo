@@ -9,3 +9,8 @@ The demo loads Lantern and Pgvector extensions into the database and builds a ve
 There's also interactive psql shell which can be used to interact with the database.
 
 https://github.com/user-attachments/assets/cacaa707-0b64-46e5-a8ec-54cbfa1a84a2
+
+## References
+- https://lantern.dev/blog/pglite-lantern
+- https://github.com/neondatabase-labs/pgrag
+- https://blog.ouseful.info/2024/03/08/pglite-minimal-postgres-wasm-demos/
